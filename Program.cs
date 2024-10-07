@@ -12,6 +12,23 @@ builder.Services.AddDbContext<ReservaContext>(options =>
 
 var app = builder.Build();
 
+// Apply migrations at startup
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<ReservaContext>();
+        context.Database.Migrate(); // Esto aplicará las migraciones
+    }
+    catch (Exception ex)
+    {
+        // Manejo de excepciones
+        // Puedes registrar el error o tomar alguna acción específica
+        Console.WriteLine($"Error al aplicar las migraciones: {ex.Message}");
+    }
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
