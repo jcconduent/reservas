@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\source\\repos\\reservasjc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\reservasjc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:reservasjc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\migrations\\20241004182457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:migrations\\20241004182457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\data\\reservacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:data\\reservacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|c:\\users\\juanc\\source\\repos\\reservasjc\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAEC06D-4B57-48D0-8A0D-FD555FA05585}|reservasjc.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T21:10:48.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T21:06:22.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T14:03:12.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T18:16:15.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:07:58.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:04:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reservasjc.csproj",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\reservasjc.csproj",
+              "RelativeDocumentMoniker": "reservasjc.csproj",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\reservasjc.csproj",
+              "RelativeToolTip": "reservasjc.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T18:02:18.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Views\\Reservas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Views\\Reservas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T18:18:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T17:58:12.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241004182457_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Migrations\\20241004182457_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241004182457_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Migrations\\20241004182457_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241004182457_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:24:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservaContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Data\\ReservaContext.cs",
+              "RelativeDocumentMoniker": "Data\\ReservaContext.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Data\\ReservaContext.cs",
+              "RelativeToolTip": "Data\\ReservaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:02:40.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\reservasjc\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:00:01.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
